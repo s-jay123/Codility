@@ -10,6 +10,7 @@ namespace Codility
           Console.WriteLine(solution(new int[] { 1, 3, 6, 4, 1, 2 }));
             Console.WriteLine("This is for github");
             Console.WriteLine("Another line for github");
+            Console.WriteLine("This is the commit for user interface");
 
         }
 
