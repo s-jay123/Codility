@@ -8,10 +8,12 @@ namespace Codility
         static void Main(string[] args)
         {
           Console.WriteLine(solution(new int[] { 1, 3, 6, 4, 1, 2 }));
-         
+            Console.WriteLine("This is for github");
+            Console.WriteLine("Another line for github");
 
         }
 
+        // testing changes
 
         public static int solution(int[] A)
         {
